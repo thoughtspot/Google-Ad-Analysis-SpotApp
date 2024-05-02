@@ -34,8 +34,8 @@ Refer to the Google Ad Analysis SpotApp schema for more details on the data stru
 After you have downloaded the Zip file and verified its contents, follow these steps:
 
 1. Log into your ThoughtSpot instance and create an Embrace connection to all of the relevant views.
-2. Import the TML for the worksheets and verify that it has all been imported without any errors.
-3. Import the TML for the pinboard and verify that it has all been imported without any errors.
-4. You are ready to start searching your Databricks data!
+2. Import the TML for the Worksheets and verify that it has all been imported without any errors.
+3. Import the TML for the Liveboards and verify that it has all been imported without any errors.
+4. You are ready to start searching your data!
 
 For detailed instructions on how to import TML files, refer to the [ThoughtSpot documentation](https://docs.thoughtspot.com/software/latest/tml-import-export-multiple).
